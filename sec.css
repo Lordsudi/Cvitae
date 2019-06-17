@@ -1,0 +1,137 @@
+.top{
+	width: 100%;
+	height: auto;
+	background-color: #1DE9B6;
+	padding: 20px;
+
+}
+.image img{
+	border-radius: 50%;
+	width: 220px;
+	height: 220px;
+	border-style: inset;
+	border-width: 10px;
+	border-color: #424242;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.name h2{
+	text-align: right;
+	font-size: 4em;
+	font-variant: small-caps;
+	font-weight: bold;
+	color: #424242;
+}
+.name h3{
+	text-align: right;
+	font-size: 2em;
+	color: #F5F5F5;
+	line-height: 0.1;
+}
+.name p{
+	text-align: justify;
+	font-size: 1.2em;
+	color: #F5F5F5;
+	line-height: 1.4;
+
+}
+.two{
+	background-color: #424242;
+	margin-top: 5px;
+	text-align: center;
+	color: #F5F5F5;
+	padding: 5px;
+	height: 30px;
+}
+.b{
+	color: #1DE9B6;
+	padding-right: 15px;
+}
+.three{
+	background-color: #F9FBE7;
+	margin-top: 5px;
+}
+.three h3{
+	text-align: center;
+	font-weight: bolder;
+}
+.c p:nth-child(2){
+float: right;
+position: relative;
+padding-right:  20px;
+color: #1DE9B6;
+font-weight: bold;
+font-size: 1.5em;
+}
+.c{
+	margin-top: 30px;
+}
+.c p:nth-child(1){
+	float: left;
+	position: relative;
+	font-weight: bold;
+	font-size: 1.3em;
+	color:  #424242;
+	font-family: arial verdana;
+	padding-left: 20px;
+}
+.list{
+	
+	font-size: 1.1em;
+	margin-top: 95px;
+	padding-right: 20px;
+}
+.content{
+	margin-top: 95px;
+	color: #455A64;
+	text-align: center;
+	font-size: 1.3em;
+}
+.four{
+	color: #F5F5F5;
+	background-color: #424242;
+	margin-top: 5px;
+}
+.skillbox{
+	padding-left: 200px;
+	padding-right: 200px;
+	margin-top: 20px;
+
+}
+.skillbox p:nth-child(2){
+	float: right;
+	position: relative;
+	top: -25px;
+	font-weight: bold;
+	font-size: 1.3em;
+	color: #F5F5F5;
+}
+.skillbox p:nth-child(1){
+	font-weight: bold;
+	font-size: 1.3em;
+}
+.skill{
+	
+	background-color: #262626;
+	padding: 3px;
+	box-sizing: border-box;
+	border-radius: 2px;
+}
+.level{
+	background-color:#1DE9B6;
+	width: 90%;
+	height: 5px;
+
+}
+.five h3{
+	color: #424242;
+}
+.five{
+	background-color: #1DE9B6;
+	font-size: 1.3em;
+	color: #F5F5F5;
+	padding: 20px;
+	margin-top: 5px;
+	marker-end: 5px;
+
+}
