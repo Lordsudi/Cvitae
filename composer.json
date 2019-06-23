@@ -1,0 +1,2 @@
+mysql://b082b7b23ec5d1:2f275c76@us-cdbr-iron-east-02.cleardb.net/heroku_a6b9542d97c4e8d?reconnect=true
+mysql -u b082b7b23ec5d1 -h us-cdbr-iron-east-02.cleardb.net -p heroku_a6b9542d97c4e8d < facebook.sql
